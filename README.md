@@ -1,5 +1,7 @@
-################################################################\n
+################################################################
+
 Just a simple project to learn how to use the Swing Library
+
 ################################################################
 
 Controls:
@@ -9,6 +11,7 @@ Controls:
 - D: Go right
 
 ################################################################
+
 Objectives: Collect a maximum of coins. Each coins add 100 to 
 your score.
 After 5 seconds, if you have not collected all the coin yet,
@@ -17,6 +20,7 @@ coins left on your score.
 If you have collected all the coins, the total number of coins
 will increase by 1 and their new position will be randomly
 selected on the grid.
+
 ################################################################
 
 I'm back to programming after not having developped any programs
