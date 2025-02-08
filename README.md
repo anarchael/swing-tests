@@ -26,6 +26,6 @@ selected on the grid.
 I'm back to programming after not having developped any programs
 in 5 years. It may not be good, but I'm doing my best to learn.
 
--- Anarchaël
+-- Anarchaël/funecirce
 
 ###############################################################
